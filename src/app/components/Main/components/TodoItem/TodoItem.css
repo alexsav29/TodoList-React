@@ -1,0 +1,11 @@
+.todo__item {
+    list-style: none;
+    margin-bottom: 10px;
+    background-color: #bbaa8888;
+    padding: 8px 15px;
+}
+
+.todo__text {
+    margin-right: 10px;
+    font-weight: bold;
+}

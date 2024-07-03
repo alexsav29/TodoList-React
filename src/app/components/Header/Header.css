@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+}
+
+.header__title {
+    margin-bottom: 40px;
+}
+
+.task__in__progress {
+    margin-bottom: 20px;
+}

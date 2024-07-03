@@ -1,0 +1,14 @@
+.todo__wrapper {
+    max-width: 1280px;
+    width: 80%;
+    margin: 40px auto;
+    
+}
+
+.todo__content {
+    width: 600px;
+    padding: 30px;
+    border-radius: 30px;
+    background-color: #cecece55;
+    background: url('../../../../public/images/background.png');
+}
